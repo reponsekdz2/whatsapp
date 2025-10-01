@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Chat",
+  "description": "A WhatsApp-like chat application powered by Google's Gemini API, featuring real-time conversations with AI personalities, image sharing, and a sleek, modern interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
